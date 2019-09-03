@@ -165,7 +165,7 @@
       <div class="dropdown-menu">
         <a class="dropdown-item" href="#">Evento</a>
         <a class="dropdown-item" href="kiosko_publicar_producto2.php">Producto</a>
-        <a class="dropdown-item" href="#">Favor</a>
+        <a class="dropdown-item" href="kiosco_nuevo_favor.php">Favor</a>
       </div>
     </li>
     
